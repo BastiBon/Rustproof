@@ -5,6 +5,8 @@ lang: en
 
 English | [Deutsch](de/)
 
+<img src="assets/logo.png" alt="Rustproof Logo" width="96">
+
 # Rustproof
 
 **Nobody is perfect every day – and nobody has to be.**
