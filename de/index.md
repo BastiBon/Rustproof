@@ -5,7 +5,7 @@ lang: de
 
 [English](../) | Deutsch
 
-<img src="assets/logo.png" alt="Rustproof Logo" width="96">
+<img src="../assets/logo.png" alt="Rustproof Logo" width="96">
 
 # Rustproof
 
