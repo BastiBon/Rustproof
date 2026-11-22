@@ -5,6 +5,8 @@ lang: de
 
 [English](privacy.html) | Deutsch · [Zur Startseite](de/)
 
+<img src="assets/logo.png" alt="Rustproof Logo" width="96">
+
 # Datenschutzerklärung für die App „Rustproof“
 
 Stand: [TT.MM.JJJJ]
