@@ -9,7 +9,7 @@ English | [Deutsch](datenschutz.html) · [Home](./)
 
 # Privacy Policy for the App "Rustproof"
 
-Last updated: [DD.MM.YYYY]
+Last updated: 24.11.2026
 
 This privacy policy is a translation of the German version. In case of doubt, the German version applies.
 
@@ -17,7 +17,7 @@ This privacy policy is a translation of the German version. In case of doubt, th
 
 The controller responsible for the app "Rustproof" and the related website is:
 
-[First name Last name]  
+Bastian Bonhoeffer  
 Email: [rustproof.app@gmail.com](mailto:rustproof.app@gmail.com)
 
 You can reach me at this email address with any questions about data protection.
@@ -38,11 +38,13 @@ Google provides me with aggregated, non-personal statistics (e.g. number of inst
 
 The website for the app, which also hosts this privacy policy, is provided via GitHub Pages, a service of GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. When you visit the website, GitHub processes technically necessary data such as your IP address, the date and time of access and information about your browser and operating system in order to deliver the page and keep the service secure. I do not analyse this data myself. The website does not use cookies or tracking.
 
-The legal basis is my legitimate interest in providing the website securely and reliably (Art. 6(1)(f) GDPR). Data may be transferred to the USA in the process; [enter the legal basis for the transfer, e.g. EU-US Data Privacy Framework or Standard Contractual Clauses]. More information: <https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement>
+The legal basis is my legitimate interest in providing the website securely and reliably (Art. 6(1)(f) GDPR). Data may be transferred to the USA in the process. According to GitHub, it participates in the EU-US Data Privacy Framework, which is covered by an adequacy decision of the European Commission (Art. 45 GDPR); in addition, GitHub uses EU Standard Contractual Clauses (Art. 46(2)(c) GDPR). More information: <https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement>
 
-## 5. Notifications
+## 5. Notifications and in-app messages
 
-The app can show you local reminders, e.g. when an inactivity limit is reached. These reminders are generated on your device; no data is sent to a server. You can switch off notifications at any time in your device settings.
+The app can show you push notifications, e.g. a penalty warning, your daily points status or reminders for individual activities. For this, it asks for Android's notification permission. While you use the app, it can also show messages, e.g. about streaks, exceptional days or rewards.
+
+You can switch each notification and message on or off individually in the app and set their times yourself. They are generated locally on your device; no data is sent to me or to a server. You can also switch off push notifications at any time in your device settings.
 
 ## 6. Step data via Health Connect
 
@@ -58,7 +60,9 @@ If you send me an email, e.g. with a question or a feature request, I process yo
 
 Via the menu item "Suggest a feature" in the app or via the website, you can reach a feedback board (<https://rustproof-app.sleekplan.app/feedback>) where you can suggest new features, vote on suggestions and report bugs. The board opens in your browser; the app itself does not transfer any data.
 
-The board is operated by Sleekplan GmbH, Leopoldstraße 31, 80802 Munich, Germany. When you use it, the data you provide there is processed, e.g. username, email address and profile picture, your suggestions, comments and votes, as well as technical data such as browser and operating system version, times of your activity and an anonymised location derived from your IP address. Use is voluntary. The legal basis is my legitimate interest in developing the app further based on its users' wishes (Art. 6(1)(f) GDPR), or your consent where the provider obtains it (Art. 6(1)(a) GDPR). A data processing agreement pursuant to Art. 28 GDPR is in place with Sleekplan. The data is stored with Amazon Web Services in Ireland (EU). Where Sleekplan's sub-processors process data outside the EU, this is done, according to Sleekplan, on the basis of EU Standard Contractual Clauses. More information: <https://sleekplan.com/custom/privacy_enduser>
+The board is operated by Sleekplan GmbH, Leopoldstraße 31, 80802 Munich, Germany. When you use it, the data you provide there is processed, e.g. username, email address and profile picture, your suggestions, comments and votes, as well as technical data such as browser and operating system version, times of your activity and an anonymised location derived from your IP address. Use is voluntary. Please do not post any information about your health there. The legal basis is my legitimate interest in developing the app further based on its users' wishes (Art. 6(1)(f) GDPR), or your consent where the provider obtains it (Art. 6(1)(a) GDPR).
+
+A data processing agreement pursuant to Art. 28 GDPR is in place with Sleekplan. Under this agreement, the data of board users is processed in the EU: it is stored with Amazon Web Services in Ireland and Hetzner Online GmbH in Germany; for the board's search and AI features, Sleekplan uses Qdrant Solutions GmbH in Berlin and Microsoft Azure AI Services in the EU. More information: <https://sleekplan.com/custom/privacy_enduser>
 
 ## 9. Storage period
 
@@ -68,8 +72,8 @@ Your entries in the app are stored only on your device and remain there until yo
 
 You have the right of access (Art. 15 GDPR), rectification (Art. 16), erasure (Art. 17), restriction of processing (Art. 18), data portability (Art. 20) and objection (Art. 21). You can withdraw any consent you have given at any time with effect for the future. As your entries are stored only on your device, you can exercise many of these rights directly in the app or via your device settings. For anything else, email me at [rustproof.app@gmail.com](mailto:rustproof.app@gmail.com).
 
-You also have the right to lodge a complaint with a data protection supervisory authority, e.g. [supervisory authority of your German federal state].
+You also have the right to lodge a complaint with a data protection supervisory authority. The authority responsible for me is the State Commissioner for Data Protection and Freedom of Information of North Rhine-Westphalia (LDI NRW): <https://www.ldi.nrw.de>
 
 ## 11. Changes
 
-I will update this privacy policy when the app changes, e.g. due to new features. The current version at [URL, e.g. https://rustproof.app/privacy.html] applies.
+I will update this privacy policy when the app changes, e.g. due to new features. The current version at <https://bastibon.github.io/Rustproof/privacy.html> applies.
